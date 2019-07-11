@@ -13,5 +13,6 @@ def link
   puts phrase
 end
 
-def any_phrase (rspec)
+def any_phrase
+  phrase = 
   
